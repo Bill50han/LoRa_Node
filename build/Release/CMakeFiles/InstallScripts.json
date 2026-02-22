@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"G:/NUAA_MISC/innovation_project_lora_rtk/lora_node/build/Release/cmake_install.cmake",
+		"G:/NUAA_MISC/innovation_project_lora_rtk/lora_node/build/Release/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
